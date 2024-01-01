@@ -6,3 +6,5 @@ The words were pulled from this list: https://docs.google.com/spreadsheets/d/13P
 So far it is just the "JLPT4" words - with plans to add more to and improve it (a lot lol).
 
 Feel free to do whatever you want with this.
+
+You will need a terminal that supports UTF-8 otherwise you won't see the characters - I have only tried this on Spyder where it works.
