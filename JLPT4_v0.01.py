@@ -570,7 +570,7 @@ jp = ["それ - that, that one",
 "まずい - problematic, troublesome",
 "花瓶 - かびん - flower vase"]
 
-number_of = 30
+number_of = 15
 selected_words = pick_words(jp, number_of)
 
 if selected_words is not None:
